@@ -1,0 +1,2 @@
+/home/techknox/vmbuilder/ubuntu/interfaces /etc/network/interfaces
+/home/techknox/vmbuilder/ubuntu/ttyS0.conf /etc/init/ttyS0.conf
